@@ -6,8 +6,6 @@
 
 <p align="center">This guide outlines the post-installation configuration of osTicket, including setting up roles, users, departments, teams, and help topics for an efficient help desk system.</p>
 
-<hr>
-
 <h2>🌐Environments and Technologies Used</h2>
 <ul>
   <li>Microsoft Azure (Virtual Machines/Compute)</li>
@@ -28,8 +26,6 @@
   <li>Configure Teams</li>
   <li>Configure Help Topics</li>
 </ul>
-
-<hr>
 
 <h2>🚀Configuration Steps</h2>
 
